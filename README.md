@@ -32,4 +32,4 @@ Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PS
 1. **Advanced CSS:** Puede usar frameworks a elección para escribir CSS teniendo en cuenta la compatibilidad con distintos browsers (hint opcional: Usar [BrowserStack](http://www.browserstack.com/) para chequear el renderizado en distintos navegadores).
 Opcional: ¿cuál sería tu enfoque en la construcción del diseño?
 
-1. **Para finalizar la tarea se requiere crear un archivo Zip con los archivos necesarios y enviar por correo a las direcciones alex@codeandomexico.org y sofia@codeandomexico**
+1. **Para finalizar la tarea se requiere crear un archivo Zip con los archivos necesarios y enviar por correo a las direcciones alex@codeandomexico.org y sofia@codeandomexico.org**
