@@ -18,6 +18,8 @@ Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PS
 
 1. **Requerimientos:** Traducir diseño a HTML+CSS. Deberás usar técnicas CSS3 y HTML5 cuando lo requiera. Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile. Utilizar FontAwesome donde sea necesario.
 
+1. **Angular:** Deben usar el framework por favor para desarrollar la prueba.
+
 1. **JavaScript:** Se deben realizar las siguiente tareas:
 	*  **Validaciones**
 		*  Marca del auto: requerido
